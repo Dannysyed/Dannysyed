@@ -1,6 +1,6 @@
 # Hi there, I'm Daniyal Mahmood 👋
 
-![Tech GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+![Tech GIF](https://giphy.com/gifs/fomoduck-duck-fomo-forever-squad-HzPtbOKyBoBFsK4hyc)
 
 ## About Me
 I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.
