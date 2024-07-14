@@ -1,8 +1,6 @@
 # Hi there, I'm Daniyal Mahmood 👋
 
-<div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
-</div>
+
 
 ## About Me
 I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.
@@ -13,7 +11,9 @@ I am a Full Stack Developer with 5 years of experience in building and scaling s
 - 💬 Ask me about React, Node.js, and Python
 - 📫 How to reach me: daniyal.syed@example.com
 - ⚡ Fun fact: I love hiking and photography
-
+<div align="right">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+</div>
 ## Skills and Technologies
 - **Languages:** JavaScript, Python, Java
 - **Frameworks:** React, Node.js, Express, Django
