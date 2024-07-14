@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Daniyal Mahmood 👋</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-direction:row;">
   <div>
     <h2>About Me</h2>
     <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
