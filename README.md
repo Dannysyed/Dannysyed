@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Daniyal Mahmood 👋</h1>
+<h1>Hi there, I'm Daniyal Mahmood </h1>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
