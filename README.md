@@ -13,9 +13,9 @@
       <li>⚡ Fun fact: I love hiking and photography</li>
     </ul>
   </div>
-  <div style="margin-left: 20px;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
-  </div>
+  <div align="right">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+</div>
 </div>
 
 <h2>Skills and Technologies</h2>
