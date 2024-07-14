@@ -1,36 +1,44 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Daniyal Mahmood 👋
+
+![Tech GIF](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 ## About Me
-I am a [Your Profession] with [Number] years of experience in [Your Field]. I specialize in [Your Specializations].
+I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Collaborative Project]
-- 🤔 I’m looking for help with [Project/Skill]
-- 💬 Ask me about [Topics You’re Interested In]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on a Task Management System
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about React, Node.js, and Python
+- 📫 How to reach me: daniyal.syed@example.com
+- ⚡ Fun fact: I love hiking and photography
 
 ## Skills and Technologies
-- **Languages:** [List of Languages]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools]
-- **Other:** [Other Skills]
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Express, Django
+- **Tools:** Git, Docker, Kubernetes
+- **Other:** Tailwind CSS, SQL, NoSQL
 
 ## Projects
-### [Project Name]
-[Brief Description]
-- [Link to the project]
-- [Technologies Used]
+### Task Management System
+A web-based application for managing tasks efficiently.
+- [GitHub Repository](https://github.com/Dannysyed/task-manager)
+- React, Node.js, MongoDB
 
-### [Another Project Name]
-[Brief Description]
-- [Link to the project]
-- [Technologies Used]
+### Weather App
+A simple app to check the weather in different cities.
+- [GitHub Repository](https://github.com/Dannysyed/weather-app)
+- JavaScript, HTML, CSS
+
+## GitHub Stats
+![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannysyed&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannysyed&layout=compact&theme=radical)
+
+## Visitors Count
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Dannysyed.Dannysyed)
 
 ## Contact Me
-- [Email]
-- [LinkedIn Profile]
-- [Twitter Profile]
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+- Email: daniyal.syed@example.com
+- [LinkedIn](https://www.linkedin.com/in/Dannysyed)
+- [Twitter](https://twitter.com/Dannysyed)
