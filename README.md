@@ -8,11 +8,11 @@
     <h2>About Me</h2>
     <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
     <ul>
-      <li>🔭 I’m currently working on a Task Management System</li>
+      <li>🔭 I’m currently working on a Chatbot Based application using React Native</li>
       <li>🌱 I’m currently learning Flutter</li>
       <li>👯 I’m looking to collaborate on Open Source Projects</li>
-      <li>💬 Ask me about React, Node.js, and Python</li>
-      <li>📫 How to reach me: daniyal.syed@example.com</li>
+      <li>💬 Ask me about React, Node.js, and Nextjs</li>
+      <li>📫 How to reach me: daniyalmahmood0786@gmail.com</li>
       <li>⚡ Fun fact: I love hiking and photography</li>
     </ul>
   </div>
@@ -53,7 +53,7 @@
 
 <h2>Contact Me</h2>
 <ul>
-  <li>Email: daniyal.syed@example.com</li>
+  <li>Email: daniyalmahmood0786@gmail.com</li>
   <li><a href="https://www.linkedin.com/in/Dannysyed">LinkedIn</a></li>
   <li><a href="https://twitter.com/Dannysyed">Twitter</a></li>
 </ul>
