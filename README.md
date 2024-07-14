@@ -1,9 +1,10 @@
 # Hi there, I'm Daniyal Mahmood 👋
 
-![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
+
 
 ## About Me
 I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.
+![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
 - 🔭 I’m currently working on a Task Management System
 - 🌱 I’m currently learning Flutter
