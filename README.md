@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <div style="margin-left: auto;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZmdrbmhpeWR4YzhtNGJqZW5raGZyY2xyYm54b3p0ejhjemgyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Tech GIF" width="300"/>
   </div>
     <h2>About Me</h2>
     <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
