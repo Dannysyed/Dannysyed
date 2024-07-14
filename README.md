@@ -1,46 +1,58 @@
-# Hi there, I'm Daniyal Mahmood 👋
+<h1>Hi there, I'm Daniyal Mahmood 👋</h1>
 
-
-
-## About Me
-I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.
-
-- 🔭 I’m currently working on a Task Management System
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about React, Node.js, and Python
-- 📫 How to reach me: daniyal.syed@example.com
-- ⚡ Fun fact: I love hiking and photography
-<div align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h2>About Me</h2>
+    <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
+    <ul>
+      <li>🔭 I’m currently working on a Task Management System</li>
+      <li>🌱 I’m currently learning Flutter</li>
+      <li>👯 I’m looking to collaborate on Open Source Projects</li>
+      <li>💬 Ask me about React, Node.js, and Python</li>
+      <li>📫 How to reach me: daniyal.syed@example.com</li>
+      <li>⚡ Fun fact: I love hiking and photography</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+  </div>
 </div>
-## Skills and Technologies
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, Kubernetes
-- **Other:** Tailwind CSS, SQL, NoSQL
 
-## Projects
-### Task Management System
-A web-based application for managing tasks efficiently.
-- [GitHub Repository](https://github.com/Dannysyed/task-manager)
-- React, Node.js, MongoDB
+<h2>Skills and Technologies</h2>
+<ul>
+  <li><strong>Languages:</strong> JavaScript, Python, Java</li>
+  <li><strong>Frameworks:</strong> React, Node.js, Express, Django</li>
+  <li><strong>Tools:</strong> Git, Docker, Kubernetes</li>
+  <li><strong>Other:</strong> Tailwind CSS, SQL, NoSQL</li>
+</ul>
 
-### Weather App
-A simple app to check the weather in different cities.
-- [GitHub Repository](https://github.com/Dannysyed/weather-app)
-- JavaScript, HTML, CSS
+<h2>Projects</h2>
+<h3>Task Management System</h3>
+<p>A web-based application for managing tasks efficiently.</p>
+<ul>
+  <li><a href="https://github.com/Dannysyed/task-manager">GitHub Repository</a></li>
+  <li>React, Node.js, MongoDB</li>
+</ul>
 
-## GitHub Stats
-![Daniyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannysyed&show_icons=true&theme=radical)
+<h3>Weather App</h3>
+<p>A simple app to check the weather in different cities.</p>
+<ul>
+  <li><a href="https://github.com/Dannysyed/weather-app">GitHub Repository</a></li>
+  <li>JavaScript, HTML, CSS</li>
+</ul>
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dannysyed&layout=compact&theme=radical)
+<h2>GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=Dannysyed&show_icons=true&theme=radical" alt="Daniyal's GitHub Stats"/>
 
-## Visitors Count
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Dannysyed.Dannysyed)
+<h2>Top Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannysyed&layout=compact&theme=radical" alt="Top Languages"/>
 
-## Contact Me
-- Email: daniyal.syed@example.com
-- [LinkedIn](https://www.linkedin.com/in/Dannysyed)
-- [Twitter](https://twitter.com/Dannysyed)
+<h2>Visitors Count</h2>
+<img src="https://visitor-badge.glitch.me/badge?page_id=Dannysyed.Dannysyed" alt="Visitor Badge"/>
+
+<h2>Contact Me</h2>
+<ul>
+  <li>Email: daniyal.syed@example.com</li>
+  <li><a href="https://www.linkedin.com/in/Dannysyed">LinkedIn</a></li>
+  <li><a href="https://twitter.com/Dannysyed">Twitter</a></li>
+</ul>
