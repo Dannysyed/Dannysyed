@@ -1,9 +1,12 @@
 <h1>Hi there, I'm Daniyal Mahmood 👋</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-direction: row;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <h2>About Me</h2>
     <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
+     <div style="margin-left: auto;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
+  </div>
     <ul>
       <li>🔭 I’m currently working on a Task Management System</li>
       <li>🌱 I’m currently learning Flutter</li>
@@ -13,9 +16,7 @@
       <li>⚡ Fun fact: I love hiking and photography</li>
     </ul>
   </div>
-  <div style="margin-left: auto;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
-  </div>
+ 
 </div>
 
 <h2>Skills and Technologies</h2>
