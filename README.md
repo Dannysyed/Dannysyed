@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Daniyal Mahmood 👋</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-row;">
   <div>
     <h2>About Me</h2>
     <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
@@ -13,7 +13,7 @@
       <li>⚡ Fun fact: I love hiking and photography</li>
     </ul>
   </div>
-  <div align="right">
+  <div>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcydHR1YXF0ZXBxbjJvajk0YmZmMGkya3RoZWNwbG1icWV6dGoxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Tech GIF" width="300"/>
 </div>
 </div>
