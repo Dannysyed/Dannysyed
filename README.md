@@ -6,7 +6,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExandyZmdrbmhpeWR4YzhtNGJqZW5raGZyY2xyYm54b3p0ejhjemgyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="Tech GIF" width="300"/>
   </div>
     <h2>About Me</h2>
-    <p>I am a Full Stack Developer with 5 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
+    <p>I am a Full Stack Developer with 3 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
     <ul>
       <li>🔭 I’m currently working on a Chatbot Based application using React Native</li>
       <li>🌱 I’m currently learning Flutter</li>
