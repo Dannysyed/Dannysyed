@@ -9,7 +9,7 @@
     <p>I am a Full Stack Developer with 3 years of experience in building and scaling software. I specialize in optimizing performance and scalability of Next.js and React applications.</p>
     <ul>
       <li>🔭 I’m currently working on a Chatbot Based application using React Native</li>
-      <li>🌱 I’m currently learning Flutter</li>
+      <li>🌱 I’m currently learning Typescript</li>
       <li>👯 I’m looking to collaborate on Open Source Projects</li>
       <li>💬 Ask me about React, Node.js, and Nextjs</li>
       <li>📫 How to reach me: daniyalmahmood0786@gmail.com</li>
@@ -21,8 +21,8 @@
 
 <h2>Skills and Technologies</h2>
 <ul>
-  <li><strong>Languages:</strong> JavaScript, Python, Java</li>
-  <li><strong>Frameworks:</strong> React, Node.js, Express, Django</li>
+  <li><strong>Languages:</strong> JavaScript, Typescript, Python</li>
+  <li><strong>Frameworks:</strong> React, Node.js, Express,Next js </li>
   <li><strong>Tools:</strong> Git, Docker, Kubernetes</li>
   <li><strong>Other:</strong> Tailwind CSS, SQL, NoSQL</li>
 </ul>
